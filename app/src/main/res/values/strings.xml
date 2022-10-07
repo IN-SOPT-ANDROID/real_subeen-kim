@@ -12,4 +12,5 @@
     <string name="mbti">MBTI</string>
     <string name="signup_complete">회원가입이 완료되었습니다!</string>
     <string name="complete">COMPLETE</string>
+    <string name="signup_failure">회원가입 실패 , 입력한 정보 확인해주세요.</string>
 </resources>
