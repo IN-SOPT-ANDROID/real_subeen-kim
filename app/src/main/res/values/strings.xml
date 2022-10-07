@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">INSOPTAndroidPractice</string>
+    <string name="in_sopt">In SOPT</string>
+    <string name="editId">아이디를 입력하세요.</string>
+    <string name="editPw">비밀번호를 입력하세요.</string>
+    <string name="tvId">ID</string>
+    <string name="tvPw">PW</string>
+    <string name="login">Login</string>
+    <string name="signup">SIGNUP</string>
+    <string name="tvsignup">SIGNUP</string>
+    <string name="etMbti">MBTI 입력하세요.</string>
+    <string name="mbti">MBTI</string>
+    <string name="signup_complete">회원가입이 완료되었습니다!</string>
+    <string name="complete">COMPLETE</string>
 </resources>
