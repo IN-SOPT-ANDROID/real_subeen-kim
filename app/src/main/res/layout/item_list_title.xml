@@ -5,9 +5,9 @@
 
     <data>
 
-        <variable
+      <!--  <variable
             name="data"
-            type="org.sopt.sample.data.GithubData.Title" />
+            type="org.sopt.sample.data.GithubData.Title" />-->
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -22,7 +22,6 @@
             android:paddingTop="20dp"
             android:textColor="@color/sopt_grey_9"
             android:textSize="20sp"
-            android:text="@{data.title}"
             app:layout_constraintTop_toTopOf="parent"
             tools:text="subeenie" />
 
