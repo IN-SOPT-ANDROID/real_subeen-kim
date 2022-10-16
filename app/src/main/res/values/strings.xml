@@ -13,4 +13,9 @@
     <string name="signup_complete">회원가입이 완료되었습니다!</string>
     <string name="complete">COMPLETE</string>
     <string name="signup_failure">회원가입 실패 , 입력한 정보 확인해주세요.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_home">home</string>
+    <string name="menu_gallery">gallery</string>
+    <string name="menu_search">search</string>
 </resources>
