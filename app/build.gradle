@@ -58,7 +58,8 @@ dependencies {
     // fragment-ktx
     implementation "androidx.fragment:fragment-ktx:1.5.3"
     //코루틴
-    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.0'
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4'
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4'
     //viewModel
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1"
     implementation "androidx.fragment:fragment-ktx:1.4.1"
